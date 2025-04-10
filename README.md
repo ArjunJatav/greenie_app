@@ -1,2 +1,2 @@
-# greenie_app
-React Native 
+# Plant APP 
+
