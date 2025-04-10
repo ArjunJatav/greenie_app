@@ -1,2 +1,2 @@
-# Plant APP 
+# Plant like app 
 
